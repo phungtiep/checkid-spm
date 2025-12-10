@@ -4725,10 +4725,13 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftyRSA",
-        "printedName": "SwiftyRSA",
+        "name": "MidRSA",
+        "printedName": "MidRSA",
         "declKind": "Import",
-        "moduleName": "checkid"
+        "moduleName": "checkid",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -76244,10 +76247,13 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftyRSA",
-        "printedName": "SwiftyRSA",
+        "name": "MidRSA",
+        "printedName": "MidRSA",
         "declKind": "Import",
-        "moduleName": "checkid"
+        "moduleName": "checkid",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -104647,84 +104653,84 @@
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 377,
+      "offset": 393,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 545,
+      "offset": 561,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 572,
+      "offset": 588,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 599,
+      "offset": 615,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 633,
+      "offset": 649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 669,
+      "offset": 685,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 705,
+      "offset": 721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 739,
+      "offset": 755,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 772,
+      "offset": 788,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 810,
+      "offset": 826,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 845,
+      "offset": 861,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 875,
+      "offset": 891,
       "length": 2,
       "value": "\"\""
     },

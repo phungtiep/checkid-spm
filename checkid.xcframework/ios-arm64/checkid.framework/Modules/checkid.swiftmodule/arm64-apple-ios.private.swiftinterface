@@ -17,6 +17,7 @@ import DeveloperToolsSupport
 import Foundation
 import ImageIO
 import LocalAuthentication
+import MidRSA
 import MobileCoreServices
 import Network
 import Photos
@@ -24,7 +25,6 @@ import SQLite3
 import Swift
 import SwiftUI
 import SwiftyJSON
-import SwiftyRSA
 import SystemConfiguration
 import UIKit
 import Vision
