@@ -4707,7 +4707,10 @@
         "name": "CryptoSwift",
         "printedName": "CryptoSwift",
         "declKind": "Import",
-        "moduleName": "checkid"
+        "moduleName": "checkid",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -29093,7 +29096,10 @@
         "name": "CryptoSwift",
         "printedName": "CryptoSwift",
         "declKind": "Import",
-        "moduleName": "checkid"
+        "moduleName": "checkid",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -38709,6 +38715,43 @@
             "declKind": "EnumElement",
             "usr": "s:7checkid10FaceMethodO12KYC_NON_CHIPyA2CmF",
             "mangledName": "$s7checkid10FaceMethodO12KYC_NON_CHIPyA2CmF",
+            "moduleName": "checkid"
+          },
+          {
+            "kind": "Var",
+            "name": "ENROLL",
+            "printedName": "ENROLL",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(checkid.FaceMethod.Type) -> checkid.FaceMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceMethod",
+                    "printedName": "checkid.FaceMethod",
+                    "usr": "s:7checkid10FaceMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "checkid.FaceMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceMethod",
+                        "printedName": "checkid.FaceMethod",
+                        "usr": "s:7checkid10FaceMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7checkid10FaceMethodO6ENROLLyA2CmF",
+            "mangledName": "$s7checkid10FaceMethodO6ENROLLyA2CmF",
             "moduleName": "checkid"
           },
           {
@@ -76267,7 +76310,10 @@
         "name": "CryptoSwift",
         "printedName": "CryptoSwift",
         "declKind": "Import",
-        "moduleName": "checkid"
+        "moduleName": "checkid",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "Import",
@@ -95908,7 +95954,7 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/Res_LiveNess\/MLKitExtensions.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/Res_LiveNess\/MLKitExtensions.swift",
       "kind": "FloatLiteral",
       "offset": 1134,
       "length": 3,
@@ -99009,91 +99055,91 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 284,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "Array",
       "offset": 315,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "Array",
       "offset": 356,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "StringLiteral",
       "offset": 971,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1002,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1029,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1055,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "StringLiteral",
       "offset": 1080,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1109,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1162,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "Array",
       "offset": 1299,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1344,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/WaitingViewController.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/WaitingViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1377,
       "length": 1,
@@ -101928,219 +101974,219 @@
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 988,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1020,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1060,
       "length": 16,
       "value": "\"transaction_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1102,
       "length": 11,
       "value": "\"face_area\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1139,
       "length": 11,
       "value": "\"nose_area\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1177,
       "length": 12,
       "value": "\"nose_areas\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1227,
       "length": 23,
       "value": "\"frame_capture_timeout\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1279,
       "length": 14,
       "value": "\"nose_timeout\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1328,
       "length": 20,
       "value": "\"save_video_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1386,
       "length": 23,
       "value": "\"show_nose_box_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1443,
       "length": 19,
       "value": "\"blink_eye_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1489,
       "length": 12,
       "value": "\"face_ratio\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 1525,
       "length": 9,
       "value": "\"dtis_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3375,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3407,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3447,
       "length": 16,
       "value": "\"transaction_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3489,
       "length": 11,
       "value": "\"face_area\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3526,
       "length": 11,
       "value": "\"nose_area\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3564,
       "length": 12,
       "value": "\"nose_areas\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3614,
       "length": 23,
       "value": "\"frame_capture_timeOut\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3666,
       "length": 14,
       "value": "\"nose_timeOut\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3715,
       "length": 20,
       "value": "\"save_video_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3773,
       "length": 23,
       "value": "\"show_nose_box_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3830,
       "length": 19,
       "value": "\"blink_eye_enabled\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3876,
       "length": 12,
       "value": "\"face_ratio\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
       "offset": 3912,
       "length": 9,
       "value": "\"dtis_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5717,
+      "offset": 5733,
       "length": 9,
       "value": "\"dtis_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5757,
+      "offset": 5773,
       "length": 16,
       "value": "\"transaction_id\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5802,
+      "offset": 5818,
       "length": 14,
       "value": "\"access_token\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5843,
+      "offset": 5859,
       "length": 12,
       "value": "\"token_type\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/FaceNoseResponse.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5882,
+      "offset": 5898,
       "length": 12,
       "value": "\"expires_in\""
     },
@@ -104336,49 +104382,49 @@
       "value": "2"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "IntegerLiteral",
       "offset": 205,
       "length": 3,
       "value": "720"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "IntegerLiteral",
       "offset": 235,
       "length": 4,
       "value": "1280"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "IntegerLiteral",
       "offset": 261,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "StringLiteral",
       "offset": 357,
       "length": 8,
       "value": "\"render\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "StringLiteral",
       "offset": 393,
       "length": 5,
       "value": "\"mp4\""
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "IntegerLiteral",
       "offset": 1825,
       "length": 3,
       "value": "600"
     },
     {
-      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
+      "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/StoreVideo\/StoreVideo.swift",
       "kind": "IntegerLiteral",
       "offset": 1943,
       "length": 1,
@@ -104653,84 +104699,84 @@
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 393,
+      "offset": 402,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 561,
+      "offset": 570,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 588,
+      "offset": 597,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 615,
+      "offset": 624,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 649,
+      "offset": 658,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 685,
+      "offset": 694,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 721,
+      "offset": 730,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 755,
+      "offset": 764,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 788,
+      "offset": 797,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 826,
+      "offset": 835,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 861,
+      "offset": 870,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/NFC\/MobileIDNFC.swift",
       "kind": "StringLiteral",
-      "offset": 891,
+      "offset": 900,
       "length": 2,
       "value": "\"\""
     },
