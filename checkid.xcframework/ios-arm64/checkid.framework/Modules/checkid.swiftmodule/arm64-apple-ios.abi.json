@@ -38755,6 +38755,80 @@
             "moduleName": "checkid"
           },
           {
+            "kind": "Var",
+            "name": "LIVENESS_ISO",
+            "printedName": "LIVENESS_ISO",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(checkid.FaceMethod.Type) -> checkid.FaceMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceMethod",
+                    "printedName": "checkid.FaceMethod",
+                    "usr": "s:7checkid10FaceMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "checkid.FaceMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceMethod",
+                        "printedName": "checkid.FaceMethod",
+                        "usr": "s:7checkid10FaceMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7checkid10FaceMethodO12LIVENESS_ISOyA2CmF",
+            "mangledName": "$s7checkid10FaceMethodO12LIVENESS_ISOyA2CmF",
+            "moduleName": "checkid"
+          },
+          {
+            "kind": "Var",
+            "name": "VERIFY_ISO",
+            "printedName": "VERIFY_ISO",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(checkid.FaceMethod.Type) -> checkid.FaceMethod",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FaceMethod",
+                    "printedName": "checkid.FaceMethod",
+                    "usr": "s:7checkid10FaceMethodO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "checkid.FaceMethod.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "FaceMethod",
+                        "printedName": "checkid.FaceMethod",
+                        "usr": "s:7checkid10FaceMethodO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:7checkid10FaceMethodO10VERIFY_ISOyA2CmF",
+            "mangledName": "$s7checkid10FaceMethodO10VERIFY_ISOyA2CmF",
+            "moduleName": "checkid"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(rawValue:)",
@@ -102158,35 +102232,35 @@
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5733,
+      "offset": 5775,
       "length": 9,
       "value": "\"dtis_id\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5773,
+      "offset": 5815,
       "length": 16,
       "value": "\"transaction_id\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5818,
+      "offset": 5860,
       "length": 14,
       "value": "\"access_token\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5859,
+      "offset": 5901,
       "length": 12,
       "value": "\"token_type\""
     },
     {
       "filePath": "\/Users\/syminhphungtiep\/Documents\/iOS\/SDK_CHECK_ID\/v2\/checkid\/checkid\/Core\/LIVENESS\/Extensions\/FaceLiveNess\/FaceNoseResponse.swift",
       "kind": "StringLiteral",
-      "offset": 5898,
+      "offset": 5940,
       "length": 12,
       "value": "\"expires_in\""
     },

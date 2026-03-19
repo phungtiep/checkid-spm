@@ -1436,6 +1436,8 @@ public enum FaceMethod : Swift.String {
   case VERIFY
   case KYC_NON_CHIP
   case ENROLL
+  case LIVENESS_ISO
+  case VERIFY_ISO
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
